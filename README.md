@@ -22,8 +22,3 @@ This repository includes open-source projects, data analysis scripts, simulation
 Make sure you have the following installed:
 - Python 3.9+
 - Jupyter Notebook / JupyterLab
-- Required libraries (see `requirements.txt`)
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
